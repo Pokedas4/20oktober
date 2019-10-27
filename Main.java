@@ -48,7 +48,8 @@ public class Main
         gui.add(text);
         gui.add(file);
         gui.add(save);
-        gui.add(calculate);
+        gui.adddd
+            d(calculate);
         gui.add(result);
         gui.setVisible(true);
         gui.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
